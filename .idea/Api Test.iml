@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6 (Api Test)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="appiumtest" />
+    <orderEntry type="module" module-name="basic" />
+    <orderEntry type="module" module-name="Cloud POS" />
+    <orderEntry type="module" module-name="python crash course" />
+    <orderEntry type="module" module-name="RF" />
+    <orderEntry type="module" module-name="TestDjangoAPI" />
+    <orderEntry type="module" module-name="web crawler bug" />
+    <orderEntry type="module" module-name="writeapi" />
+  </component>
+</module>
